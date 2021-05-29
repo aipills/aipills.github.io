@@ -13,23 +13,23 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Scrivici"
-    URL: "https://radity.com/en/contact/"
+    URL: "#contact"
 
   socialLinks:
     #- icon: "linkedin"
-    #  URL: "https://www.linkedin.com/company/radity/"
+    #  URL: "#"
 
     - icon: "github"
       URL: "https://github.com/aipills"
 
     #- icon: "twitter"
-    #  URL: "https://twitter.com/radity"
+    #  URL: "#"
 
     #- icon: "dribbble"
-    #  URL: "https://dribbble.com/radity"
+    #  URL: "#"
 
     #- icon: "behance"
-    #  URL: "https://www.behance.net/radity-digital"
+    #  URL: "#"
 
     - icon: "youtube"
       URL: "https://www.youtube.com/"
@@ -38,13 +38,13 @@ showcase:
       URL: "https://www.instagram.com/"
 
     #- icon: "facebook"
-    #  URL: "https://www.facebook.com/raditycom/"
+    #  URL: "#"
 
     #- icon: "codepen"
     #  URL: "#"
 
     #- icon: "yelp"
-    #  URL: "https://www.yelp.com/"
+    #  URL: "#"
 
 # about
 about:
@@ -62,7 +62,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/"
   image:
     x: "img/who-am-i/user-picture.png"
     _2x: "img/who-am-i/user-picture@2x.png"
@@ -88,7 +88,7 @@ experience:
   button:
     #icon: "icon-linkedin-fill"
     btnText: "Contattaci"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/"
   #button2:
     #icon: "icon-profile-fill"
     #btnText: "Download My Resume"
