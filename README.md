@@ -1,5 +1,7 @@
 # website
 
+https://aipills.github.io/
+
 Palette
 --------------------
 D86162
